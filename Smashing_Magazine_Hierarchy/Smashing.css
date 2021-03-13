@@ -1,0 +1,23 @@
+.SmashHeader{
+position: relative;
+display: grid;
+justify-content: flex-start;
+align-items: center;
+background: Grey;
+}
+
+.main-nav{
+position: relative;
+display: block;
+min-width: 0;
+font-size: 1.05em;
+}
+
+#main{
+
+position: relative;
+background-color: lightgrey;
+display: block;
+
+
+}
