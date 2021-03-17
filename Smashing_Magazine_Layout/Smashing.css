@@ -1,0 +1,156 @@
+.SmashHeader{
+position: relative;
+display: grid;
+justify-content: flex-start;
+align-items: center;
+background: Grey;
+}
+
+.main-nav{
+position: relative;
+display: block;
+min-width: 0;
+font-size: 1.05em;
+}
+
+#main{
+
+display: block;  
+position: relative;
+background-color: lightgrey;
+display: block;
+}
+
+.container{
+    Max-width: 1440px;
+    margin: 0 auto;
+    z-index: 1;
+    position: relative;
+}
+
+.row{
+margin-left: 0;
+margin-right: 0;
+}
+
+.Headline1{
+
+width: 200px;
+height: 200px;
+background-color: darkgrey;
+
+}
+
+.Headline2{
+
+    width: 200px;
+    height: 200px;
+    background-color: lightslategrey;
+    
+    }
+
+.Headline3{
+
+ width: 200px;
+height: 200px;
+background-color: darkgray;
+        
+}
+
+.promobox{
+
+background-color:grey;
+position: relative;
+margin-top: 125px;
+text-align: center;
+display: flex;
+width: 100%;
+
+
+}
+
+.Empty1{
+
+background-color:slategrey;
+width:100%;
+height:300px;
+
+
+
+}
+
+
+.Tagline1{
+
+background-color:black;
+width: 150px;
+height: 20px;
+
+
+}
+
+.article-grid1{
+
+display: flex;
+flex-wrap: wrap;
+flex-direction: column;
+position: relative;
+width: 200px;
+height: 200px;
+background-color:dimgrey;
+}
+
+
+.article-grid2{
+
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    position: relative;
+    width: 200px;
+    height: 200px;
+    background-color: dimgray;
+    }
+
+.article-grid3{
+display: flex;
+flex-wrap: wrap;
+flex-direction: column;
+width: 200px;
+height: 200px;
+background-color: lightslategray;
+ }
+
+ .article-grid4{
+
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 200px;
+    height: 200px;
+    background-color: lightslategrey;
+    }
+    
+.article-grid5{
+
+display: flex;
+flex-wrap: wrap;
+flex-direction: column;
+width: 200px;
+height: 200px;
+background-color: slategray;
+}
+        
+
+.article-grid6{
+
+display: flex;
+flex-wrap: wrap;
+flex-direction: column;
+width: 200px;
+height: 200px;
+background-color: slategrey;
+ }
+            
+        
+    
