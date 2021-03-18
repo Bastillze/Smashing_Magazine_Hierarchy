@@ -1,5 +1,6 @@
 .SmashHeader{
 position: relative;
+height: 130px;
 display: grid;
 justify-content: flex-start;
 align-items: center;
@@ -38,16 +39,17 @@ margin-right: 0;
 width: 200px;
 height: 200px;
 background-color: darkgrey;
+margin-top: 10px;
+margin-bottom: 10px;
 
 }
 
 .Headline2{
-
-    width: 200px;
-    height: 200px;
-    background-color: lightslategrey;
-    
-    }
+width: 200px;
+height: 200px;
+margin-bottom: 10px;
+background-color: lightslategrey;   
+}
 
 .Headline3{
 
@@ -74,8 +76,16 @@ width: 100%;
 background-color:slategrey;
 width:100%;
 height:300px;
+margin-bottom: 13px;
 
 
+
+}
+
+
+.latestarticles{
+
+padding: 50px;
 
 }
 
@@ -94,31 +104,36 @@ height: 20px;
 display: flex;
 flex-wrap: wrap;
 flex-direction: column;
+float: right;
 position: relative;
 width: 200px;
 height: 200px;
 background-color:dimgrey;
+margin-bottom: 10px;
 }
 
 
 .article-grid2{
 
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: column;
-    position: relative;
-    width: 200px;
-    height: 200px;
-    background-color: dimgray;
-    }
+display: flex;
+flex-wrap: wrap;
+flex-direction: column;
+position: relative;
+width: 200px;
+height: 200px;
+background-color: dimgray;
+margin-bottom: 10px;
+}
 
 .article-grid3{
 display: flex;
 flex-wrap: wrap;
 flex-direction: column;
+float:  right;
 width: 200px;
 height: 200px;
 background-color: lightslategray;
+margin-bottom: 10px;
  }
 
  .article-grid4{
@@ -129,6 +144,7 @@ background-color: lightslategray;
     width: 200px;
     height: 200px;
     background-color: lightslategrey;
+    margin-bottom: 10px;
     }
     
 .article-grid5{
@@ -136,9 +152,11 @@ background-color: lightslategray;
 display: flex;
 flex-wrap: wrap;
 flex-direction: column;
+float: right;
 width: 200px;
 height: 200px;
 background-color: slategray;
+margin-bottom: 10px;
 }
         
 
@@ -150,7 +168,102 @@ flex-direction: column;
 width: 200px;
 height: 200px;
 background-color: slategrey;
+margin-bottom: 10px;
  }
             
-        
+    
+ .Empty2{
+
+ background-color: grey;
+ width: 100%;
+ height: 150px;
+ margin-top: 15px;
+ margin-bottom:15px;
+
+
+
+ }
+
+ .article-grid11{
+ display: flex;
+flex-wrap: wrap;
+flex-direction: column;
+float: right;
+width: 200px;
+height: 200px;
+background-color: darkslategrey;
+margin-bottom: 10px;
+}
+
+
+.article-grid12{
+
+display: flex;
+flex-wrap: wrap;
+flex-direction: column;
+width: 200px;
+height: 200px;
+background-color: dimgrey;
+margin-bottom: 10px;
+}
+
+.article-grid13{
+
+ display: flex;
+flex-wrap: wrap;
+flex-direction: column;
+float: right;
+width: 200px;
+height: 200px;
+background-color: rgb(70, 64, 64);
+ margin-bottom: 10px;
+}
+
+.article-grid14{
+
+display: flex;
+flex-wrap: wrap;
+flex-direction: column;
+width: 200px;
+ height: 200px;
+background-color: rgb(53, 45, 45);
+margin-bottom: 10px;
+}
+
+
+.article-grid15{
+
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    float: right;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(51, 37, 37);
+    margin-bottom: 10px;
+     }
+
+.article-grid16{
+
+display: flex;
+flex-wrap: wrap;
+width: 200px;
+height: 200px;
+background-color: #3a1a1a23;
+margin-bottom: 10px;
+ }
+
+
+ .main-footer{
+
+position: relative;
+z-index: 1;
+display: block;
+background-color: darkslategray;
+width: 100%;
+height: 200px;
+
+
+
+ }
     
